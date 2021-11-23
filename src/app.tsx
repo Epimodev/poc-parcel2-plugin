@@ -7,7 +7,7 @@ const appContainer = document.getElementById('app');
 const Application: React.FC = () => {
   console.log(arrowIcon)
   return <div>
-    <Icon href="" />
+    <Icon href={arrowIcon} />
   </div>
 }
 
