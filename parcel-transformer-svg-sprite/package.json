@@ -1,9 +1,0 @@
-{
-  "name": "parcel-transformer-svg-sprite",
-  "version": "1.0.0",
-  "main": "src/index.js",
-  "license": "MIT",
-  "engines": {
-    "parcel": "^2.0.1"
-  }
-}

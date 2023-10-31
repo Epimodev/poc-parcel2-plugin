@@ -7,7 +7,7 @@ type Props = {
 
 export const Icon: React.FC<Props> = ({ href, className }) => {
   return (
-    <svg className={className}>
+    <svg style={{ width: 450, height: 450 }} className={className}>
       <use xlinkHref={href} />
     </svg>
   );
